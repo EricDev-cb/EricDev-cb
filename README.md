@@ -2,39 +2,29 @@
 -   junior
 -   Android low-level
 -   Script & automatização
--   Analista de nuvem (Google Cloud Analyst)
 
-💻 Estudante de tecnologia focado em performance, otimização e sistemas
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-**Sistemas operacionais**:
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-
-**Linguagens**:
-
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+💻 Estudante de tecnologia focado em:
+* 🐧 Linux (ubuntu, fedora, customizações, performance)
+* 📱 Android (kernel, otimizações, Waydroid)
+* 🐍 Python (scripts, automações)
+* 🔐 Cybersecurity Cloud Analyst (estudos em andamento)
 
 ---
-## 📊 GitHub Stats
-
+## 📊 GitHub Status
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
 
----
+# Especialidades
+**Sistemas operacionais**:
 
-## 🚀 Sobre mim
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+# Linguagens
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Sou apaixonado por entender **como as coisas realmente funcionam por baixo dos panos**.
-
-⚡ Foco em extrair o máximo de desempenho mesmo em hardware limitado.
 
 Gosto de:
 
@@ -56,10 +46,10 @@ Gosto de:
 
 ## 🔧 Projetos e Experimentos
 
-* 📱 Estudo e modificação de kernel Android (nível experimental)
-* ⚙️ Otimizações em Linux para ganho de desempenho
-* 🤖 Desenvolvimento de scripts em Python para automação
-* 🎮 Testes de compatibilidade e desempenho com Waydroid
+* 📱 Modificações e estudos em kernel Android
+* ⚙️ Otimizações no Linux (foco em desempenho)
+* 🤖 Scripts em Python para automação
+* 🎮 Testes com Waydroid e compatibilidade
 
 ---
 
