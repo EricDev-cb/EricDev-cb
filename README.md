@@ -1,5 +1,5 @@
 # 👋 Fala aí, eu sou o Eric
--   junior
+-   junior Developer
 -   Android low-level
 -   Script & automatização
 
