@@ -4,13 +4,14 @@
 
 🐧 Linux • 📱 Android • 🐍 Python • 🔐 Cloud Security
 
-Apaixonado por entender sistemas por baixo dos panos, otimizar desempenho e aprender na prática.
+Estudar programação se tornou meu hobby, entender como as coisas funciona por baixo dos "panos" tornou-se meu objetivo
 
-🚀 Atualmente estudando:
+🚀 Eu estou estudando atualmente:
 
 * Sistemas operacionais
 * Redes e segurança
 * Automação com Python
+* Kernel linux
 * Performance em Linux
 
 * ## 📊 GitHub Status
