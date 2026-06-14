@@ -20,8 +20,9 @@ Estudar programação se tornou meu hobby, e entender como as coisas funcionam p
 ---
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EricDev-cb&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDev-cb&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EricDev-cb&show_icons=true&theme=tokyonight" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDev-cb&layout=compact&theme=tokyonight&card_width=420" />
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas
