@@ -4,7 +4,7 @@
 
 🐧 Linux • 📱 Android • 🐍 Python • 🔐 Cloud Security
 
-Estudar programação se tornou meu hobby, entender como as coisas funciona por baixo dos "panos" tornou-se meu objetivo
+Estudar programação se tornou meu hobby, e entender como as coisas funcionam por baixo dos panos virou meu objetivo.
 
 🚀 Eu estou estudando atualmente:
 
@@ -14,10 +14,9 @@ Estudar programação se tornou meu hobby, entender como as coisas funciona por 
 * Kernel linux
 * Performance em Linux
 
-* ## 📊 GitHub Status
+## 📊 GitHub Status
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=EricDev-cb&show_icons=true&theme=tokyonight&count_private=true" />
-  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDev-cb&layout=compact&theme=tokyonight" />
 </p>
