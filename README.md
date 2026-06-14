@@ -29,13 +29,6 @@ Estudar programação se tornou meu hobby, e entender como as coisas funcionam p
 
 ---
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EricDev-cb&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDev-cb&layout=donut&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Conecte-se comigo
 
 <p align="left">
