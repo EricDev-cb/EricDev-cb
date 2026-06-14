@@ -17,13 +17,6 @@ Estudar programação se tornou meu hobby, e entender como as coisas funcionam p
 * Kernel linux
 * Performance em Linux
 
----
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EricDev-cb&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDev-cb&layout=donut&theme=tokyonight" />
-</p>
-
 ### 🛠️ Tecnologias e Ferramentas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,6 +26,13 @@ Estudar programação se tornou meu hobby, e entender como as coisas funcionam p
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EricDev-cb&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDev-cb&layout=donut&theme=tokyonight" />
+</p>
 
 ---
 
