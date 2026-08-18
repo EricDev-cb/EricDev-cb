@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre Mim
 
-Estudar programação se tornou meu hobby, e entender como as coisas funcionam por baixo dos panos virou meu objetivo principal.
+Estudar programação se tornou meu hobby, e entender como as coisas funcionam por baixo dos panos virou meu passatempo.😶‍🌫️
 
 * 📅 **Nascimento:** 30/07/2009
 * 🎯 **Atualmente estudando:**
