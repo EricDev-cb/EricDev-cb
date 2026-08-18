@@ -45,7 +45,3 @@ Estudar programação se tornou meu hobby, e entender como as coisas funcionam p
   <a href="mailto:ericrodriguesdasilva134@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
