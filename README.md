@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre Mim
 
-Estudar programação se tornou meu hobby, e entender como as coisas funcionam por baixo dos panos virou meu passatempo.😶‍🌫️
+Atualmente sou estudante de Cibersegurança/DevSecOps, mas comecei a mexer com tecnologia aos 14 anos, principalmente com Bash e Linux. Sempre tive curiosidade de entender como as coisas funcionam por trás dos “panos”. “Como isso funciona?”, “Como um software é instalado?” ou “Como ele é criado?” eram perguntas que sempre ficavam na minha cabeça. Foi justamente essa curiosidade que despertou meu interesse pela área e me fez querer entender cada vez mais o que acontece por baixo dos panos.O mais curioso é que estamos sempre conectados à tecnologia, mas pouco sabemos sobre como ela realmente funciona. 🫪
 
 * 📅 **Nascimento:** 30/07/2009
 * 🎯 **Atualmente estudando:**
