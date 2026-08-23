@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/background.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">👋 Olá, Eu sou o Eric!</h1>
 <h3 align="center">Estudante de Tecnologia de Baixo Nível & Enthusiast de Sistemas</h3>
 
