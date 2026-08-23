@@ -2,6 +2,10 @@
   <img src="./assets/background.png" alt="Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=780&height=60&lines=%3E+Otimizar+%C3%A9+fazer+menos%2C+dar+mais%3B;%3E+Quebrar%2C+reconstruir+e+polir%3B;%3E+Depura%C3%A7%C3%A3o+vem+antes+da+resolu%C3%A7%C3%A3o%3B;%3E+Kernel+build+finalizada%3A+3+horas+e+5+segundos+%21" alt="Typing SVG" />
+</p>
+
 <h1 align="center">👋 Olá, Eu sou o Eric!</h1>
 <h3 align="center">Estudante de Tecnologia de Baixo Nível & Enthusiast de Sistemas</h3>
 
