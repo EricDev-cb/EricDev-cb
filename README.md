@@ -17,6 +17,14 @@
   🐧 Linux • 📱 Android • 🐍 Python • 🔐 Cloud Security
 </p>
 
+<h3 align="center">🛠️ Minhas Soluções !</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,kotlin,androidstudio,vscode,py,docker,bash,git,linux" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 Sobre Mim
@@ -32,18 +40,7 @@ Atualmente sou estudante de Cibersegurança/DevSecOps, mas comecei a mexer com t
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+### 
 
 ---
 
@@ -54,12 +51,6 @@ Atualmente sou estudante de Cibersegurança/DevSecOps, mas comecei a mexer com t
 <img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
 
 </div>
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
-</p>
 
 ### 
 <h2 align="center">⌘ Commit Activity</h2>
