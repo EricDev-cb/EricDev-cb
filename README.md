@@ -75,7 +75,4 @@ Atualmente sou estudante de Cibersegurança, mas comecei a mexer com tecnologia 
   <a href="mailto:ericrodriguesdasilva134@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://tryhackme.com/p/Eric.Dev" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
 </p>
